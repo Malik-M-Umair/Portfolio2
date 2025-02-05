@@ -1,18 +1,18 @@
 [
     {
-      "image": "https://malik-m-umair.github.io/Portfolio2/netflix.png",
+      "image": "https://malik-m-umair.github.io/Portfolio2//netflix.png",
       "badge": "Netflix Clone",
       "title": "I created a responsive Netflix clone with an attractive UI, dynamic banners, and a working form, showcasing my frontend development skills. 🚀",
       "link": "https://github.com/Malik-M-Umair/Clone"
     },
     {
-      "image": "https://malik-m-umair.github.io/Portfolio2/app.png",
+      "image": "https://malik-m-umair.github.io/Portfolio2//app.png",
       "badge": "Desktop app",
       "title": "LinkUp is a Java-based communication app with a database for efficient user data management, offering posting, likes, comments, and password reset features. 💬📱",
       "link": "https://github.com/Malik-M-Umair/Linkup"
     },
     {
-      "image": "https://malik-m-umair.github.io/Portfolio2/imagegallery.png",
+      "image": "https://malik-m-umair.github.io/Portfolio2//imagegallery.png",
       "badge": "Image Gallery",
       "title": "I made an image gallery to view images in a grid with hover effects and sorting. This project improved my UI design and interactive features. 📸",
       "link": " https://ariesian-tech.github.io/Image-gallery/"
